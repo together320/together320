@@ -1,33 +1,39 @@
-<img align="right" height="150" src="https://www.snexplores.org/wp-content/uploads/2023/02/1030_ChatGPT_feat.gif"  />
-
-###
-
-<div align="center">
-  <a href="https://linkedin.com/in/juraj-pusic" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/juracija" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=plastic" height="30" alt="twitter logo"  />
-  </a>
-  <a href="jurapusic056@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="30" alt="gmail logo"  />
-  </a>
-  <a href="https://t.me/together320" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=plastic" height="30" alt="telegram logo"  />
-  </a>
-</div>
-
-###
+<br clear="both">
 
 <h1 align="center">👋 Hi, I'm Jura 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  Sr. FullStack Developer</h3>
+<div align="center">
+  <img height="300" src="https://www.snexplores.org/wp-content/uploads/2023/02/1030_ChatGPT_feat.gif"  />
+</div>
 
 ###
 
-<h4 align="left">- 🔭 Frontend : Angular, React/React Native, Next.js, Vue.js, Nuxt.js, gRPC, Protobuf<br>- 👨‍💻 Backend : Express, Django, Laravel, Spring Boot<br>- 💬 Database : MongoDB, PostgreSQL, Redis, MySQL, GraphQL, Amazon Redshift<br>- 📫 Languages : Go, Python, JavaScript/TypeScript, C/C++, Java, PHP<br>- 🔥 BlockChain : Web3.js, Ether.js, Ethereum, Solana, NFT</h4>
+<br clear="both">
+
+<div align="center">
+  <a href="https://linkedin.com/in/juraj-pusic" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/juracija" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="30" alt="twitter logo"  />
+  </a>
+  <a href="jurapusic056@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo"  />
+  </a>
+  <a href="https://t.me/together320" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="30" alt="telegram logo"  />
+  </a>
+</div>
+
+###
+
+<h3 align="left">👩‍💻  Technical Skills</h3>
+
+###
+
+<p align="left">- 🔭 Frontend : Angular, React/React Native, Next.js, Vue.js, Nuxt.js, gRPC, Protobuf<br><br>- 👨‍💻 Backend : Express, Django, Laravel, Spring Boot<br><br>- 💬 Database : MongoDB, PostgreSQL, Redis, MySQL, GraphQL, Amazon Redshift<br><br>- 📫 Languages : Go, Python, JavaScript/TypeScript, C/C++, Java, PHP<br><br>- 🔥 BlockChain : Web3.js, Ether.js, Ethereum, Solana, NFT</p>
 
 ###
 
@@ -116,7 +122,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=together320&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=together320&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=15&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
