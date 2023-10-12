@@ -1,11 +1,11 @@
 <br clear="both">
 
-<h1 align="center">👋 Hi, I'm Jura 👋</h1>
+<h1 align="center">👋 Greetings from Juraj Pusic 👋</h1>
 
 ###
 
 <div align="center">
-  <img height="400" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  />
+  <img height="400" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"  />
 </div>
 
 ###
@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20developer;7+%2B%20years%20of%20professional%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20developer;+7%2B%20years%20of%20professional%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45">
   </a>
 </p>
 
