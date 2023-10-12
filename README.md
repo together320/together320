@@ -5,9 +5,14 @@
 ###
 
 <div align="center">
-  <img height="300" src="https://www.snexplores.org/wp-content/uploads/2023/02/1030_ChatGPT_feat.gif"  />
+  <img height="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif"  />
 </div>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Software%20Developer;7+%2B%20years%20of%20professional%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45">
+  </a>
+</p>
 ###
 
 <br clear="both">
