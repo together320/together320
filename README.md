@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img height="300" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"  />
+  <img height="00" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"  />
 </div>
 
 ###
@@ -21,18 +21,13 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://linkedin.com/in/juraj-pusic" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
+  <a href="https://linkedin.com/in/juraj-pusic" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin.png"  width="50" /></a>
+  <a href="https://twitter.com/juracija" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/twitter.png"  width="50" /></a>
+  <a href="mailto:jurapusic056@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" />
   </a>
-  <a href="https://twitter.com/juracija" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="30" alt="twitter logo"  />
-  </a>
-  <a href="jurapusic056@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo"  />
-  </a>
-  <a href="https://t.me/together320" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="30" alt="telegram logo"  />
-  </a>
+  <a href="https://t.me/together320" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
+  <a href="https://serhiis-portfolio.onrender.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
 </div>
 
 ###
