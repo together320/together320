@@ -21,13 +21,15 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://linkedin.com/in/juraj-pusic" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin.png"  width="50" /></a>
+  <a href="https://www.linkedin.com/in/juraj-pusic" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin.png"  width="50" /></a>
   <a href="https://twitter.com/juracija" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/twitter.png"  width="50" /></a>
   <a href="mailto:jurapusic056@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" />
   </a>
   <a href="https://t.me/together320" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
   <a href="https://serhiis-portfolio.onrender.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
+  <a href="https://join.skype.com/invite/Cwkygw8rMRwL" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/skype.png"  width="50" /></a>
+  <a href="https://discord.gg/M7VTBHJb" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/discord.png"  width="50" /></a>
 </div>
 
 ###
