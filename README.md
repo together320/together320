@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">👋 Greetings from Juraj Pusic 👋</h1>
+<h1 align="center">👋 Hi, I'm Juraj Pusic - Software Engineer 👋</h1>
 
 ###
 
@@ -26,10 +26,10 @@
   <a href="mailto:jurapusic056@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" />
   </a>
-  <a href="https://t.me/together320" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
-  <a href="https://serhiis-portfolio.onrender.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
+  <a href="https://t.me/jurapusic056" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
   <a href="https://join.skype.com/invite/Cwkygw8rMRwL" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/skype.png"  width="50" /></a>
   <a href="https://discord.gg/M7VTBHJb" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/discord.png"  width="50" /></a>
+  <a href="https://juraj-pusic.onrender.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
 </div>
 
 ###
@@ -38,19 +38,17 @@
 
 ###
 
-<p align="left">- 🔭 Frontend : Angular, React/React Native, Next.js, Vue.js, Nuxt.js, gRPC, Protobuf<br><br>- 👨‍💻 Backend : Express, Django, Laravel, Spring Boot<br><br>- 💬 Database : MongoDB, PostgreSQL, Redis, MySQL, GraphQL, Amazon Redshift<br><br>- 📫 Languages : Go, Python, JavaScript/TypeScript, C/C++, Java, PHP<br><br>- 🔥 BlockChain : Web3.js, Ether.js, Ethereum, Solana, NFT</p>
+<p align="left">- 🔭 Frontend : Angular, React/React Native, Next.js, Vue.js, Nuxt.js, gRPC, Protobuf<br>- 👨‍💻 Backend : Express, Django, Laravel, Spring Boot<br>- 💬 Database : MongoDB, PostgreSQL, Redis, MySQL, GraphQL, Amazon Redshift<br>- 📫 Languages : Go, Python, JavaScript/TypeScript, C/C++, Java, PHP<br>- 🔥 BlockChain : Web3.js, Ether.js, Ethereum, Solana, NFT</p>
 
 ###
 
-<img src="https://raw.githubusercontent.com/together320/together320/output/snake.svg" alt="Snake animation" />
+###
+
+<h3 align="center">🛠 Language & Tools</h3>
 
 ###
 
-<h3 align="left">🛠 Language & Tools</h3>
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="cplusplus logo"  />
