@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">👋 Hi, I'm Juraj Pusic - Software Engineer 👋</h1>
+<h1 align="center">👋 Hi, I'm "Together320" - Software Engineer 👋</h1>
 
 ###
 
@@ -19,19 +19,6 @@
 </p>
 
 <br clear="both">
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/juraj-pusic" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin.png"  width="50" /></a>
-  <a href="https://twitter.com/juracija" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/twitter.png"  width="50" /></a>
-  <a href="mailto:jurapusic056@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" />
-  </a>
-  <a href="https://t.me/jurapusic056" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
-  <a href="https://join.skype.com/invite/Cwkygw8rMRwL" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/skype.png"  width="50" /></a>
-  <a href="https://discord.gg/M7VTBHJb" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/discord.png"  width="50" /></a>
-  <a href="https://juraj-pusic.onrender.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
-</div>
-
 ###
 
 <h3 align="left">👩‍💻  Technical Skills</h3>
