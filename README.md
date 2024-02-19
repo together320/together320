@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">👋 Hi, I'm "Together320" - Software Engineer 👋</h1>
+<h1 align="center">👋 Hi, I'm Juraj Pusic - Software Engineer 👋</h1>
 
 ###
 
