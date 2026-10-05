@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">👋 Hi, I'm a Software Engineer 👋</h1>
+<h1 align="center">👋 Hi, I'm a Full Stack iGaming Developer 👋</h1>
 
 ###
 
@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20developer;+7%2B%20years%20of%20professional%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20iGaming%20Developer;Casino%20Platform%20Developer;Payment%20Integration%20Engineer;8%2B%20Years%20of%20Experience;Passionate%20About%20Building%20Great%20Products&center=true&width=500&height=45">
   </a>
 </p>
 
@@ -25,7 +25,25 @@
 
 ###
 
-<p align="left">- 🔭 Frontend : Angular, React/React Native, Next.js, Vue.js, Nuxt.js, gRPC, Protobuf<br>- 👨‍💻 Backend : Express, Django, Laravel, Spring Boot<br>- 💬 Database : MongoDB, PostgreSQL, Redis, MySQL, GraphQL, Amazon Redshift<br>- 📫 Languages : Go, Python, JavaScript/TypeScript, C/C++, Java, PHP<br>- 🔥 BlockChain : Web3.js, Ether.js, Ethereum, Solana, NFT</p>
+<p align="left">
+- 🎰 iGaming:
+Casino Platforms, Game Provider Integration, Game Launch APIs, Player Wallets, Bonus Systems, Affiliate Systems
+<br>
+- 💳 Payments:
+Payment Gateways, Deposits, Withdrawals, Webhooks, Payment Callbacks, Transaction Processing
+<br>
+- 👨‍💻 Backend:
+Node.js, Express.js, NestJS, REST APIs, WebSocket, Microservices
+<br>
+- 🖥 Frontend:
+React, Vue.js, Nuxt.js, TypeScript, JavaScript, Responsive Web Applications
+<br>
+- 🗄 Database:
+PostgreSQL, MySQL, MongoDB, Redis, Transaction Data Modeling
+<br>
+- ☁ Cloud:
+AWS, Docker, Kubernetes, Linux, CI/CD
+</p>
 
 ###
 
